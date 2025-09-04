@@ -1,0 +1,5 @@
+{
+  "name": "Photophonia",
+  "description": "An AI-powered photo editing application that allows users to perform basic and advanced image manipulations using text prompts, powered by the Gemini API. Features include face toning, brightness adjustments, color grading, background changes, object addition/removal, and various artistic effects.",
+  "requestFramePermissions": []
+}
